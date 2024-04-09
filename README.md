@@ -40,10 +40,10 @@ The analysis results are summarized as follows:
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- Invest in marketing and promotions across Canadian region to maximize revenue.
-- Focus on expanding and promoting Top performing product_brands.
+- According to customers preferances we can work in the inventory portion to save .
+- Focus on expanding and promoting Top performing categories.
 
 ### References
-- [Udemy](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?couponCode=KEEPLEARNING)
+- [Youtube](https://youtu.be/V-s8c6jMRN0?si=t7tHf0OWcuPnXnuu)
 
 
